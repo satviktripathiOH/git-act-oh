@@ -1,1 +1,2 @@
 Hello Git, This is Satvik
+Welcome to GitHubgit checkout -b feature-branch Performing some activites
