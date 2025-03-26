@@ -2,3 +2,4 @@ Hello Git, This is Satvik
 Welcome to GitHubgit checkout -b feature-branch Performing some activites
 Main Branch Modification for resolve conflicts
 Feature branch modification
+Stashing changes
